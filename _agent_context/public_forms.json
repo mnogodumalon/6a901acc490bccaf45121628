@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "testdaten",
+      "app_id": "6a901aab5f728b99067f67aa",
+      "path": "/rest/apps/6a901aab5f728b99067f67aa/records",
+      "allowed_fields": [
+        "titel",
+        "beschreibung",
+        "status",
+        "testdatum",
+        "verantwortlich_vorname",
+        "verantwortlich_nachname",
+        "anmerkungen"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Testdaten — Form"
+    }
+  ]
+}

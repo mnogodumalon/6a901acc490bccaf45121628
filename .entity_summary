@@ -1,0 +1,1 @@
+- Testdaten (testdaten): titel[string/text], beschreibung[string/textarea], status[lookup/select], testdatum[date/date], verantwortlich_vorname[string/text], verantwortlich_nachname[string/text], anmerkungen[string/textarea]
